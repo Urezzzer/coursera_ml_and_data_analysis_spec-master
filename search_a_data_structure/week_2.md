@@ -2,7 +2,7 @@
 ## Понижение размерности и отбор признаков
  * _Слайды_ [Понижение размерности и отбор признаков](week_2/materials/2.1.Ponizhenie_razmernosti_i_otbor_priznakov_Slides.pdf): _обучение без учителя (Unsupervized learning), кластеризация, методы кластеризации_
  * _Конспект_ [Понижение размерности и отбор признаков](week_2/materials/2.1.Ponizhenie_razmernosti_i_otbor_priznakov.pdf): _обучение без учителя (Unsupervized learning), кластеризация, разбор методов кластеризации_
- * [Assignment](week_2/assignment/) Метод главных компонент
+ * [Assignment](week_2/assignment/PCA.ipynb) Метод главных компонент
  
 ## Матричные разложения
  * _Слайды_ [Понижение размерности и отбор признаков](week_2/materials/): _коэффициент силуэта, v-мера, привлечение асессоров, оценка качества кластеризации_
