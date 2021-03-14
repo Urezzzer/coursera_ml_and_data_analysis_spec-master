@@ -6,3 +6,4 @@
 ## Визуализация данных
  * _Слайды_ [Матричные разложения](week_3/materials/3.2.Vizualizatsiya_dannyh_Slides.pdf): _MDS, T_SNE, Визуализация в sklearn_
  * _Конспект_ [Матричные разложения](week_3/materials/3.2.Vizualizatsiya_dannyh.pdf): _MDS, T_SNE, Визуализация в sklearn_
+ * [Assignment](week_3/assignment/VisualizationPeerReview.ipynb) Визуализация данных
