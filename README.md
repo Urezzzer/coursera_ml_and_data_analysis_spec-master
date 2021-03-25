@@ -7,6 +7,6 @@
   1. [Математика и Python для анализа данных](maths_and_python/README.md)
   2. [Обучение на размеченных данных](learning_on_labeled_data/README.md)
   3. [Поиск структуры в данных](search_a_data_structure/README.md)
-  4. [Построение выводов по данным](stats for data analysis/README.md)
+  4. [Построение выводов по данным](stats for data analysis)
   5. Прикладные задачи анализа данных
   6. Анализ данных: финальный проект
