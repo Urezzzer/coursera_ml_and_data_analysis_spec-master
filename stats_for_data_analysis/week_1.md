@@ -4,9 +4,9 @@
  * _Notebook_ [Доверительные интервалы для доли](week_1/notebooks/stat.proporion_conf_int.ipynb)
  * _Notebook_ [Доверительные интервалы для двух долей](week_1/notebooks/stat.two_proporions_conf_int_upd.ipynb)
  * _Notebook_ [Доверительные интервалы на основе бутстрепа](week_1/notebooks/stat.bootstrap_intervals.ipynb)
- * _Слайды_ [Доверительные интервалы](week_1/materials/1.2.Doveritel'nye_intervaly_slides.pdf): _обучение без учителя (Unsupervized learning), кластеризация, методы кластеризации_
- * _Конспект_ [Доверительные интервалы](week_1/materials/1-1.Doveritelnye_intervaly.pdf): _обучение без учителя (Unsupervized learning), кластеризация, разбор методов кластеризации_
+ * _Слайды_ [Доверительные интервалы](week_1/materials/1.2.Doveritel'nye_intervaly_slides.pdf): _доверительные интервалы для доли, параметрические методы, бутстреп_
+ * _Конспект_ [Доверительные интервалы](week_1/materials/1-1.Doveritelnye_intervaly.pdf): _доверительные интервалы для доли, параметрические методы, бутстреп_
 
 ## Проверка гипотез
- * _Слайды_ [Методы кластеризации](week_1/materials/1.2.Podrobnee_o_metodah_klasterizatsii_Slides.pdf): _коэффициент силуэта, v-мера, привлечение асессоров, оценка качества кластеризации_
- * _Конспект_ [Методы кластеризации](week_1/materials/1.2.Podrobnee_o_metodah_klasterizatsii.pdf): _коэффициент силуэта, v-мера, привлечение асессоров, оценка качества кластеризации_
+ * _Слайды_ [Проверка гипотез](week_1/materials/1.3.Proverka_gipotez_slides.pdf): _p-value, достигаемый уровень значимости, статистическая и практическая значимости, биномиальный критерий для доли и критерий согласия Пирсона_
+ * _Конспект_ [Проверка гипотез](week_1/materials/1-2.Proverka_gypotez.pdf.pdf): _p-value, достигаемый уровень значимости, статистическая и практическая значимости, биномиальный критерий для доли и критерий согласия Пирсона_
