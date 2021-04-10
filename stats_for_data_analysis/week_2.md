@@ -11,7 +11,7 @@
  * _Конспект_ [Параметрические критерии](week_2/materials/2-2.Parametricheskie_kriterii.pdf): _Критерии Стьюдента, проверка гипотез для долей_
 
 ## Непараметрические критерии
- * _Notebook_ [Тест Непараметрические критерии](week_2/notebooks/TestNon-parametrictest.ipynb.ipynb)
+ * _Notebook_ [Тест Непараметрические критерии](week_2/notebooks/TestNon-parametrictest.ipynb)
  * _Notebook_ [Непараметрические критерии](week_2/notebooks/stat.non_parametric_tests_1sample.ipynb)
  * _Notebook_ [Непараметрические критерии для независимых выборок](week_2/notebooks/stat.non_parametric_tests_ind.ipynb)
  * _Notebook_ [Непараметрические критерии для зависимых выборок](week_2/notebooks/stat.non_parametric_tests_rel.ipynb)
