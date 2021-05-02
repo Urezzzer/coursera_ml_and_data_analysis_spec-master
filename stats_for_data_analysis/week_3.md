@@ -2,8 +2,8 @@
 ## Поиск зависимости в данных
 * _Конспект_ [Поиск зависимости в данных](week_3/materials/3-1.Poisk_zavisimostej_v_dannyh.pdf): _Критерии Стьюдента, проверка гипотез для долей_
 ## Корреляции
- * _Notebook_ [Поиск взаимосвязей с помощью корреляции](week_3/materials/stat.correlation.ipynb)
- * _Notebook_ [Тест. Корреляционный анализ](week_3/materials/correlation_analysis.ipynb)
+ * _Notebook_ [Поиск взаимосвязей с помощью корреляции](week_3/notebooks/stat.correlation.ipynb)
+ * _Notebook_ [Тест. Корреляционный анализ](week_3/notebooks/correlation_analysis.ipynb)
  * _Слайды_ [Корреляции](week_3/materials/3.2.Korrelyacii_Slides.pdf): _Корреляции Спирмена, Пирсона, Мэтьюса и булщит_
  * _Конспект_ [Корреляции](week_3/materials/3-2.Korrelyacii.pdf): _Корреляции Спирмена, Пирсона, Мэтьюса и булщит_
 ## Множественная проверка гипотез
