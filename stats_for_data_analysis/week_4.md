@@ -6,5 +6,5 @@
 ## Задача АБ-тестирования
  * _Assignment_ [Анализ результатов АБ-тестирования](week_4/assignment_3/analysis_results_of_AB_test.ipynb)
 ## Задача оттока
- * _Assignment_ [Анализ эффективности удержания](week_4/assignment_4/)
+ * _Assignment_ [Анализ эффективности удержания](week_4/assignment_4/churn_analysis.ipynb)
 
