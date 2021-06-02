@@ -6,4 +6,4 @@
   * [Assignment](week_1/assignment_1/SalaryPredicting.ipynb) Предсказание заработной платы в России
 
 ## Анализ поведения пользователей
- * _Слайды_ [Анализ поведения пользователей (1 из 7 слайдов)](week_1/materials/1-2. Analiz povedeniya pol'zovatelej/1. Analiz povedeniya pol'zovatelej.pdf): _аудиторные метрики активности, монетизации, оттока и привлечения, прогнозирование оттока_
+ * _Слайды_ [Анализ поведения пользователей (1 из 7 слайдов)](week_1/materials/1-2.%20Analiz%20povedeniya%20pol'zovatelej/1.%20Analiz%20povedeniya%20pol'zovatelej.pdf): _аудиторные метрики активности, монетизации, оттока и привлечения, прогнозирование оттока_
