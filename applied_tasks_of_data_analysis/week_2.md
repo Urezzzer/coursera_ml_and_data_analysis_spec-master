@@ -11,8 +11,8 @@
  * _Конспект_ [Нейронные сети для анализа изображений](week_2/materials/2-2.Nejronnye-seti-dlya-analiza-izobrazhenij.pdf): _классификация и сегментация изображений_
 
 ## Практические задачи компьютерного зрения
-* _Слайды_ [Анализ поведения пользователей (1 из 7 слайдов)](week_1/materials/1-2.%20Analiz%20povedeniya%20pol'zovatelej/1.%20Analiz%20povedeniya%20pol'zovatelej.pdf): _аудиторные метрики активности, монетизации, оттока и привлечения, прогнозирование оттока_
- * _Конспект_ [Прогнозирование временных рядов](week_1/materials/1-1.Prognozirovanie-vremennyh-ryadov.pdf): _временные ряды, автокорреляция, ARIMA, SARIMAX, анализ остатков_
+* _Слайды_ [Задачи компьютерного зрения (1 из 4 слайдов)](week_2/materials/2-3.-Prakticheskie-zadachi-komp_yuternogo-zreniya/2-3.%20Prakticheskie%20zadachi%20komp'yuternogo%20zreniya/1.%20Detekciya%20obektov.pdf): _детекция изображений, стилизация, распознавание объектов_
+ * _Конспект_ [Задачи компьютерного зрения](week_2/materials/2-3.Prakticheskie-zadachi-komp_yuternogo-zreniya.pdf): _детекция изображений, стилизация, распознавание объектов_
  * 
 ## Дополнительные источники информации
 * [Заметка про 1-мерные и 2-мерные свертки и интерактивное демо, позволяющее попробовать разные фильтры](https://graphics.stanford.edu/courses/cs178/applets/convolution.html)
